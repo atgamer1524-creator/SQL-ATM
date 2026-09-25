@@ -19,7 +19,7 @@ A desktop ATM simulation application built with **Python**, featuring a sleek us
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/atgamer1524-creator/SQL-ATM
    cd SQL-ATM
    ```
 
